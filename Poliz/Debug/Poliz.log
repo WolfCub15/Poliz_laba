@@ -1,0 +1,4 @@
+﻿  MyForm.cpp
+c:\users\nastya\desktop\poliz_laba\poliz\poliz\myform.cpp(7): warning C4829: Возможно, неправильные параметры функции main. Рекомендуемый вариант - "int main(Platform::Array<Platform::String^>^ argv)"
+  Arithmetic.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  Poliz.vcxproj -> C:\Users\Nastya\Desktop\Poliz_laba\Poliz\Debug\Poliz.exe
